@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="34%" r="74%">
+      <stop offset="0%" stop-color="#0a1330" />
+      <stop offset="100%" stop-color="#03040b" />
+    </radialGradient>
+    <radialGradient id="planet" cx="36%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#eaf4ff" />
+      <stop offset="32%" stop-color="#9bd0ff" />
+      <stop offset="66%" stop-color="#4f8fd0" />
+      <stop offset="100%" stop-color="#162a52" />
+    </radialGradient>
+    <radialGradient id="shade" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#0a1430" stop-opacity="0" />
+      <stop offset="100%" stop-color="#070d22" stop-opacity="0.55" />
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)" />
+  <path d="M6.2 44.2 A26.8 8.8 -25 0 1 53.8 21.8" fill="none" stroke="#6fb6f2" stroke-width="2.4" stroke-linecap="round" opacity="0.34" />
+  <circle cx="30" cy="33" r="15.4" fill="url(#planet)" />
+  <circle cx="30" cy="33" r="15.4" fill="url(#shade)" />
+  <path d="M53.8 21.8 A26.8 8.8 -25 0 1 6.2 44.2" fill="none" stroke="#bfe3ff" stroke-width="3" stroke-linecap="round" opacity="0.92" />
+  <g fill="#eaf4ff">
+    <path d="M51 6 L52.8 12 L58.8 13.8 L52.8 15.6 L51 21.6 L49.2 15.6 L43.2 13.8 L49.2 12 Z" />
+  </g>
+</svg>

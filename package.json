@@ -1,0 +1,30 @@
+
+{
+  "name": "cosmoatlas",
+  "version": "1.0.0",
+  "description": "CosmoAtlas - Cinematic interactive 3D atlas of the cosmos",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "sync": "node sync-assets.mjs && node sync-all.mjs",
+    "build": "esbuild src/blackhole-entry.tsx --bundle --format=esm --minify --outfile=assets/blackhole-hero-entry-v2.js"
+  },
+  "keywords": [
+    "cosmoatlas",
+    "3d",
+    "space",
+    "astronomy",
+    "planetarium",
+    "atlas",
+    "solar-system"
+  ],
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.5"
+  },
+  "license": "MIT"
+}

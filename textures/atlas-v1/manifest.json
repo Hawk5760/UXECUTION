@@ -1,0 +1,611 @@
+[
+  {
+    "id": "earth",
+    "url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57730/land_ocean_ice_8192.png",
+    "credit": "NASA / Reto Stöckli, Blue Marble",
+    "source": "https://visibleearth.nasa.gov/collection/1484/blue-marble",
+    "license": "NASA media guidelines",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 8192,
+      "height": 4096,
+      "sha256": "aaddcd967a9f09fb2d7ef50ff452bebfcf10192c520465d5eb1ad8446c716e98"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "earth-1024.webp",
+        "width": 1024,
+        "bytes": 81340,
+        "sha256": "db046b05db183a2d273439d2ae09013425ba900d959beb1f9c9638f8fc68bbca"
+      },
+      {
+        "file": "earth-2048.webp",
+        "width": 2048,
+        "bytes": 281262,
+        "sha256": "805e4e34a859ec7dffed697c4a6cafd42b72b8105fb430deab049d04249444e1"
+      },
+      {
+        "file": "earth-4096.webp",
+        "width": 4096,
+        "bytes": 958912,
+        "sha256": "28a96d65845710aa694a2087df13e6a8c49fe8704afe3cf6a552b62f1000e9c7"
+      }
+    ]
+  },
+  {
+    "id": "mercury",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_mercury.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 8192,
+      "height": 4096,
+      "sha256": "5c8bd885ae3571c6ba2cd34b3446b9c6d767e314bf0ee8c1d5c147cadd388fc3"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "mercury-1024.webp",
+        "width": 1024,
+        "bytes": 145282,
+        "sha256": "193ab0f5a722c07cbed4affb82277f677702d5d3bb4128e9ee477619d5496475"
+      },
+      {
+        "file": "mercury-2048.webp",
+        "width": 2048,
+        "bytes": 610624,
+        "sha256": "0ddc20de9bcdac232ff09b93638eaad2c10483607684db50ae8c8af5ae6c5e44"
+      },
+      {
+        "file": "mercury-4096.webp",
+        "width": 4096,
+        "bytes": 2905122,
+        "sha256": "aa0ce14609d010e5bb7829c7e4870ae84d0d9c6b24bbf4a0044a7f44a43523fd"
+      }
+    ]
+  },
+  {
+    "id": "venus",
+    "url": "https://www.solarsystemscope.com/textures/download/4k_venus_atmosphere.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 4096,
+      "height": 2048,
+      "sha256": "a14aeba3c6ad7a56f989bb32008dec548077aeded420495b34df98f2dc14ba91"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "venus-1024.webp",
+        "width": 1024,
+        "bytes": 21786,
+        "sha256": "0bc127dd86fd76b981b0c83af0fd2be86d597f46ecc95f2262af35758849b062"
+      },
+      {
+        "file": "venus-2048.webp",
+        "width": 2048,
+        "bytes": 65148,
+        "sha256": "6c316644709f03fce16c98f53056372207c8a712af26062fefeafc6fb0eb76fc"
+      },
+      {
+        "file": "venus-4096.webp",
+        "width": 4096,
+        "bytes": 257080,
+        "sha256": "c2d910958e21d4dde7ebb856243669398f2723e13da3453eaf56b5f29ea80719"
+      }
+    ]
+  },
+  {
+    "id": "mars",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_mars.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 8192,
+      "height": 4096,
+      "sha256": "4cc52149924abc6ae507d63032f994e1d42a55cb82c09e002d1a567ff66c23ee"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "mars-1024.webp",
+        "width": 1024,
+        "bytes": 106624,
+        "sha256": "f49e0d636af4a725d5d49ce59828378c6ab50a22467167e4a434a31960a057cd"
+      },
+      {
+        "file": "mars-2048.webp",
+        "width": 2048,
+        "bytes": 357706,
+        "sha256": "dd5c4cfa2e30e547fb888169eb0f62a1b76dfec04f34280d6e3bbf281878776c"
+      },
+      {
+        "file": "mars-4096.webp",
+        "width": 4096,
+        "bytes": 1289464,
+        "sha256": "6d93d7b66c50d2b5b96efc415a07ac0accdeaef26dbfb79f80fd6892bb62105c"
+      }
+    ]
+  },
+  {
+    "id": "jupiter",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_jupiter.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 4096,
+      "height": 2048,
+      "sha256": "0bd844bf20822c4e3e80882b077859833c0dac44c7e4e1e0cd63d1b1b6d43085"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "jupiter-1024.webp",
+        "width": 1024,
+        "bytes": 73330,
+        "sha256": "80379872ba42ac8b912648a455e97c3c80bb3ca32765e342dc2680fc91afaf37"
+      },
+      {
+        "file": "jupiter-2048.webp",
+        "width": 2048,
+        "bytes": 209556,
+        "sha256": "59cc1289f2f1dd5c1e8466dd0bfddb7e32a7786a58dbdeef87b3e970e6954341"
+      },
+      {
+        "file": "jupiter-4096.webp",
+        "width": 4096,
+        "bytes": 650994,
+        "sha256": "42fec709f07b089b6c762f9543d1133434f7939c5c1bffa15b3a39a402ec1edc"
+      }
+    ]
+  },
+  {
+    "id": "saturn",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_saturn.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 4096,
+      "height": 2048,
+      "sha256": "0d39a4a490c87c3edabe00a3881a29bb3418364178c79c534fe0986e97e09853"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "saturn-1024.webp",
+        "width": 1024,
+        "bytes": 16960,
+        "sha256": "c4776467f131c429f4cada15634e8e714f7e1f7556a3382ba3b57d42320277ef"
+      },
+      {
+        "file": "saturn-2048.webp",
+        "width": 2048,
+        "bytes": 55932,
+        "sha256": "ba483df1aa950d10a59a8ccc3a80ca18c278c32443e1596842a9efc967196de8"
+      },
+      {
+        "file": "saturn-4096.webp",
+        "width": 4096,
+        "bytes": 170748,
+        "sha256": "521a7df6ad414d3d3644fe849c55d8575f167e48f2140c1b2d70fb20e335f75e"
+      }
+    ]
+  },
+  {
+    "id": "uranus",
+    "url": "https://www.solarsystemscope.com/textures/download/2k_uranus.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048
+    ],
+    "original": {
+      "width": 2048,
+      "height": 1024,
+      "sha256": "d15239d46f82d3ea13d2b260b5b29b2a382f42f2916dae0694d0387b1204a09d"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "uranus-1024.webp",
+        "width": 1024,
+        "bytes": 3750,
+        "sha256": "776ffe2bd9a158fe1f82169b1b9d90c59b414641265c59560fd82cd6f965b389"
+      },
+      {
+        "file": "uranus-2048.webp",
+        "width": 2048,
+        "bytes": 11148,
+        "sha256": "d80c94843ab3d5e7d831cf6e0cb659f0e998f5a9d51855dafbacfbfc15981ea3"
+      }
+    ]
+  },
+  {
+    "id": "neptune",
+    "url": "https://www.solarsystemscope.com/textures/download/2k_neptune.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048
+    ],
+    "original": {
+      "width": 2048,
+      "height": 1024,
+      "sha256": "cb42ea82709741d28b0af44d8b283cbc6dbd0c521a7f0e1e1e010ade00977df6"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "neptune-1024.webp",
+        "width": 1024,
+        "bytes": 8684,
+        "sha256": "87bb4fbebc85d65f2989881b4713864b430525519e7ea9084215f6351cd9795a"
+      },
+      {
+        "file": "neptune-2048.webp",
+        "width": 2048,
+        "bytes": 26956,
+        "sha256": "54cb2476225f3fa9a3949003595158231ee1c748255b28bafe04b135747c0d62"
+      }
+    ]
+  },
+  {
+    "id": "earth-clouds",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_earth_clouds.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 8192,
+      "height": 4096,
+      "sha256": "c792eca228989d36ebb45d3ea6ff1198be5e21a25d70d2fbcb2124ffd14ba7f5"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "earth-clouds-1024.webp",
+        "width": 1024,
+        "bytes": 179838,
+        "sha256": "8c8448ded801a2813f962e33150edb15f79eefe9d0bc5d32d2e58119b2aa55f8"
+      },
+      {
+        "file": "earth-clouds-2048.webp",
+        "width": 2048,
+        "bytes": 687052,
+        "sha256": "4d33768e32b01b489b4bba63c7697fffdadc6745d354f8466fa6fa00941c0c0b"
+      },
+      {
+        "file": "earth-clouds-4096.webp",
+        "width": 4096,
+        "bytes": 2764076,
+        "sha256": "356e808da5a557e6e9b71275032c5e2be8207438d3c75b63c51b30685657a252"
+      }
+    ]
+  },
+  {
+    "id": "earth-night",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_earth_nightmap.jpg",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 8192,
+      "height": 4096,
+      "sha256": "9894e83a585a22c1c425e7ca4f987a9ba625bf08ecee45d3c9dcacae3c2ad5f7"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "earth-night-1024.webp",
+        "width": 1024,
+        "bytes": 28416,
+        "sha256": "e82676be67d273808e1226060eb78211e10ba8ab28c68efc3df4ce73cbe0df85"
+      },
+      {
+        "file": "earth-night-2048.webp",
+        "width": 2048,
+        "bytes": 108082,
+        "sha256": "04790e9a742e07053b565bb1367778e6321304d18602999c442ee0fce1019ca5"
+      },
+      {
+        "file": "earth-night-4096.webp",
+        "width": 4096,
+        "bytes": 389078,
+        "sha256": "4b1c4880bd22f5e42f3543d3dcbb073aa726ce596036247bfbe8f49a740202c1"
+      }
+    ]
+  },
+  {
+    "id": "saturn-ring",
+    "url": "https://www.solarsystemscope.com/textures/download/8k_saturn_ring_alpha.png",
+    "credit": "Solar System Scope / INOVE",
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "sizes": [
+      1024,
+      2048,
+      4096
+    ],
+    "original": {
+      "width": 8192,
+      "height": 500,
+      "sha256": "f1f826933c9ff87d64ecf0518d6256b8ed990b003722794f67e96e3d2b876ae4"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "saturn-ring-1024.webp",
+        "width": 1024,
+        "bytes": 3356,
+        "sha256": "61d3e4528e9f5c3be1f59e76a2bc684ce43fd1adfaed75513318594d35ded99d"
+      },
+      {
+        "file": "saturn-ring-2048.webp",
+        "width": 2048,
+        "bytes": 6810,
+        "sha256": "4cc981b4f51e470431c2870e104513a8280906f30dbe439f64a382b0d0203619"
+      },
+      {
+        "file": "saturn-ring-4096.webp",
+        "width": 4096,
+        "bytes": 16000,
+        "sha256": "974b822b3123dbc9a385508e17b7761c02a13ba1ce264a596ea9c9829c5bc17d"
+      }
+    ]
+  },
+  {
+    "id": "moon",
+    "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/lroc_color_2k.jpg",
+    "credit": "NASA / GSFC / Arizona State University, LROC",
+    "source": "https://svs.gsfc.nasa.gov/4720/",
+    "license": "NASA media guidelines",
+    "sizes": [
+      1024,
+      2048
+    ],
+    "original": {
+      "width": 2048,
+      "height": 1024,
+      "sha256": "f7130a1822681fa7512d7dcfd40db8c10b9ba4f06777910348698260ed7a2170"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "moon-1024.webp",
+        "width": 1024,
+        "bytes": 120696,
+        "sha256": "903f7b196909b07d10e2c58d4576ae2ba6e1514500915c9370160099370f7dfd"
+      },
+      {
+        "file": "moon-2048.webp",
+        "width": 2048,
+        "bytes": 432010,
+        "sha256": "8d32862ec54e745da21d181f1659ec665aaa66d129ea3ffffe3199a6063e6015"
+      }
+    ]
+  },
+  {
+    "id": "moon-height",
+    "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/ldem_3_8bit.jpg",
+    "credit": "NASA / GSFC / MIT, LOLA",
+    "source": "https://svs.gsfc.nasa.gov/4720/",
+    "license": "NASA media guidelines",
+    "sizes": [
+      1024
+    ],
+    "original": {
+      "width": 1024,
+      "height": 512,
+      "sha256": "6d93f887e7d8bedfe35ab89ba785e5e3ca12381bd092a5e6abe2c707dda8bb98"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "moon-height-1024.webp",
+        "width": 1024,
+        "bytes": 92182,
+        "sha256": "6530b461eeb5823ba0574a37148db4ad163fe3a8b37ef78270ff1489daa08a2d"
+      }
+    ]
+  },
+  {
+    "id": "io",
+    "url": "https://maps.jpl.nasa.gov/tmaps/pix/jup1vss2.jpg",
+    "credit": "Courtesy NASA/JPL-Caltech / USGS",
+    "source": "https://maps.jpl.nasa.gov/tmaps/jupiter.html",
+    "license": "JPL image use policy",
+    "sizes": [
+      1024
+    ],
+    "original": {
+      "width": 1440,
+      "height": 720,
+      "sha256": "71c574f74555552fa4bec70931e954c6139d3489df825c9edf40213d49cba132"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "io-1024.webp",
+        "width": 1024,
+        "bytes": 82080,
+        "sha256": "45777cbf89f38cf2a8cbf99bc3f162ae7103050a7cd2649bdd22075b0552a2e0"
+      }
+    ]
+  },
+  {
+    "id": "europa",
+    "url": "https://maps.jpl.nasa.gov/tmaps/pix/jup2vss2.jpg",
+    "credit": "Courtesy NASA/JPL-Caltech / USGS",
+    "source": "https://maps.jpl.nasa.gov/tmaps/jupiter.html",
+    "license": "JPL image use policy",
+    "sizes": [
+      1024
+    ],
+    "original": {
+      "width": 1440,
+      "height": 720,
+      "sha256": "03164d293c46b3eff16678c20dfb73337db8a404e2d83f057bc320b95484b54f"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "europa-1024.webp",
+        "width": 1024,
+        "bytes": 99134,
+        "sha256": "78e5393f7e00d369630b21c24ae0b81b0b747cbcfef6bf51da080e3e8ea84940"
+      }
+    ]
+  },
+  {
+    "id": "ganymede",
+    "url": "https://maps.jpl.nasa.gov/tmaps/pix/jup3vss2.jpg",
+    "credit": "Courtesy NASA/JPL-Caltech / USGS",
+    "source": "https://maps.jpl.nasa.gov/tmaps/jupiter.html",
+    "license": "JPL image use policy",
+    "sizes": [
+      1024
+    ],
+    "original": {
+      "width": 1440,
+      "height": 720,
+      "sha256": "626302a877528d7eab74f4229f6c7249fffc91be8e28e8edc040433aca98cc6d"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "ganymede-1024.webp",
+        "width": 1024,
+        "bytes": 153096,
+        "sha256": "5f15c8357bfd595d60a108077bd7ac5aefd46cdffe8a35695e2067e3b112e214"
+      }
+    ]
+  },
+  {
+    "id": "callisto",
+    "url": "https://maps.jpl.nasa.gov/tmaps/pix/jup4vss2.jpg",
+    "credit": "Courtesy NASA/JPL-Caltech / USGS",
+    "source": "https://maps.jpl.nasa.gov/tmaps/jupiter.html",
+    "license": "JPL image use policy",
+    "sizes": [
+      1024
+    ],
+    "original": {
+      "width": 1440,
+      "height": 720,
+      "sha256": "9659f85b76d5cb90cb709b32f3282f3ca94199be4d8b3b159d7d373a1887551c"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "callisto-1024.webp",
+        "width": 1024,
+        "bytes": 178832,
+        "sha256": "7a576412ab80de1f13915f6c1c4776d5c913bdce590ad08545c929b2a8cd25c6"
+      }
+    ]
+  },
+  {
+    "id": "enceladus",
+    "url": "https://maps.jpl.nasa.gov/tmaps/pix/sat2vss2.jpg",
+    "credit": "Courtesy NASA/JPL-Caltech / USGS",
+    "source": "https://maps.jpl.nasa.gov/tmaps/saturn.html",
+    "license": "JPL image use policy",
+    "sizes": [
+      1024
+    ],
+    "original": {
+      "width": 1440,
+      "height": 720,
+      "sha256": "224b4510a75dc6554cfb0802507f9f1bb959c52848b8ec9286d4253d417d6dd2"
+    },
+    "modifications": "Resampled to mip source tiers and encoded as WebP; no invented terrain.",
+    "variants": [
+      {
+        "file": "enceladus-1024.webp",
+        "width": 1024,
+        "bytes": 73258,
+        "sha256": "d40dd9b9f8882c03bbfdc4912a7e68975c4ef830d5037bea5ecae6d8c41e3787"
+      }
+    ]
+  },
+  {
+    "id": "mars-normal",
+    "source": "https://pds-geosciences.wustl.edu/mgs/urn-nasa-pds-mgs_mola_topography_derived/meg004/megt90n000cb.img",
+    "credit": "NASA / GSFC / MGS MOLA Team / PDS Geosciences Node",
+    "license": "NASA media guidelines",
+    "modifications": "Normal vectors from signed metre elevations, 3396 km reference radius, physical slopes without vertical exaggeration; longitude shifted 180 degrees.",
+    "sourceSha256": "25f16fb7aaf857898dcf98bc4f841341a24f8b9f7e98453ca083bc45d897ca2c",
+    "variants": [
+      {
+        "file": "mars-normal-1440.png",
+        "bytes": 707914,
+        "sha256": "558df6941d6f8f5ba5f2e440a1c80f8656ef1031dc94bea0a1c08e2379c34410"
+      }
+    ]
+  },
+  {
+    "id": "earth-water",
+    "source": "https://visibleearth.nasa.gov/collection/1484/blue-marble",
+    "credit": "NASA / Reto Stöckli; mask derived by CosmoAtlas",
+    "license": "NASA media guidelines",
+    "modifications": "Approximate water mask inferred from Blue Marble colour, not a measured land classification.",
+    "sourceSha256": "aaddcd967a9f09fb2d7ef50ff452bebfcf10192c520465d5eb1ad8446c716e98",
+    "variants": [
+      {
+        "file": "earth-water-1024.png",
+        "bytes": 53542,
+        "sha256": "20f821a25d4111cd1a1c638328f51a7dead2dbc6cf5575809229fe20f6aef292"
+      }
+    ]
+  }
+]

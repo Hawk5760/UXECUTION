@@ -1,0 +1,19 @@
+{
+  "name": "CosmoAtlas - Atlas of the Cosmos",
+  "short_name": "CosmoAtlas",
+  "description": "An interactive cinematic 3D atlas of the Milky Way, the Solar System, planets, and moons.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#03040b",
+  "theme_color": "#03040b",
+  "orientation": "any",
+  "categories": ["education", "science", "entertainment"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
