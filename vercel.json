@@ -1,0 +1,43 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": ".",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(assets|fonts|textures|panoramas|stellar|landing)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    },
+    {
+      "source": "/(.*\\.(?:woff|woff2|ttf|otf|wasm|bin|png|jpg|jpeg|webp|svg|glb))",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/explore/(.*)",
+      "destination": "/explore.html"
+    },
+    {
+      "source": "/:lang(es|pl|de|fr|it|pt|ja|zh|ru)/:path*",
+      "destination": "/explore.html"
+    }
+  ]
+}
